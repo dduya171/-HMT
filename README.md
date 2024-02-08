@@ -1,2 +1,2 @@
-# -HMT
+# ĐHMT
 BTL N6
